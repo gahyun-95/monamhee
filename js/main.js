@@ -4,7 +4,7 @@ $('#fullpage').fullpage({
   navigationPosition: 'left', // 기본값 right
   navigationTooltips: ['SINSIWAY', 'Solution', 'Business', 'Partner'],
   showActiveTooltip: true, // 기본값 false
-  anchors: ['about', 'archive', 'shop', 'sns']
+  anchors: ['home', 'archive', 'shop', 'sns']
 });
 
 
